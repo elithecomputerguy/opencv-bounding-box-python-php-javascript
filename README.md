@@ -8,6 +8,8 @@ The PHP script reads the text file that was created and then uses Javascript/ Ca
 
 This is good for understanding what OpenCV "sees" and understanding false positive hits.
 
+YouTube Demo: https://youtu.be/9P9UUEfxy6A
+
 Prerequisties:
   OpenCV has to be installed and functional
   Python3
